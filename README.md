@@ -22,9 +22,10 @@ The name of the file should be: _{FullName}__{Date}_QA_Automation_STP
 -	Follow your STP doc and implement tests accordingly
 -	You will need to create a user token and use it as part of the http requests
 -	Useful guidelines:
-  ●	Work with models - think Object Oriented
-  ●	Keep your code clean
-  ●	Reuse code when possible
+  
+    * Work with models - think Object Oriented
+    * Keep your code clean
+    * Reuse code when possible
 
 
 **We understand that covering this api is quite a general request, so please only invest as much time as you need to showcase your abilities. 
