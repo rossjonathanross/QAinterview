@@ -18,7 +18,7 @@ The main entities to be tested:
 Make this a DOCX or TXT file and add to your branch,
 The name of the file should be: _{FullName}__{Date}_QA_Automation_STP
 
-2. Implement tests project (Write in C# or Java) and when complete (again) add to your branch
+2. When you clone the repo and create your own branch, you can use the empty C# Test Project included here, and when complete (again) add to your branch
 -	Follow your STP doc and implement tests accordingly
 -	You will need to create a user token and use it as part of the http requests
 -	Useful guidelines:
